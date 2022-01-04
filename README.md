@@ -1,2 +1,2 @@
 # Auth-SpringSecurity-JWT
-this is the regisry
+this is the regisry (run it first)
